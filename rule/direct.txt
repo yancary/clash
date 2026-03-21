@@ -1,2 +1,4 @@
+# 监控管家域名
 +.anythinktech.com
 +.icamra.com
++.aiot99.com
