@@ -9,3 +9,6 @@
 +.qmxzn.net
 # ecoflow
 +.ecoflow.com
+
+# 其它国内网站域名
++.ywyj.cn
